@@ -1,8 +1,8 @@
 Credit-Net
 ==========
 
-Programming Assignment 1 in Probabilistic Graphical Models course of Daphne Koller
-The course info can be found here https://class.coursera.org/pgm-003/class/index
+Programming Assignment 1 in Probabilistic Graphical Models course of Daphne Koller.  
+The course info can be found here https://class.coursera.org/pgm-003/class/index.  
 The details of this assignment is described in PGM_Programming_Assignment_1.pdf
 
 The codes are written by Octave.  
