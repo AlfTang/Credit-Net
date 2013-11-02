@@ -45,3 +45,5 @@ This set include the following functions:
 11. SetValueOfAssignment.m - Sets the value of a variable assignment in a factor.
 
 12. FactorTutorial.m - Detailed description of the factor data structure and related functions.
+
+13. Credit_net.net - Credit net in the format of Samiam
